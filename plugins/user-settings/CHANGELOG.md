@@ -1,5 +1,15 @@
 # @backstage/plugin-user-settings
 
+## 0.2.3
+
+### Patch Changes
+
+- Updated dependencies [1665ae8bb]
+- Updated dependencies [04f26f88d]
+- Updated dependencies [ff243ce96]
+  - @backstage/theme@0.2.2
+  - @backstage/core@0.4.0
+
 ## 0.2.2
 
 ### Patch Changes
